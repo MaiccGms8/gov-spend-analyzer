@@ -7,3 +7,5 @@ data/01_bronze/*.csv
 data/02_silver/*.parquet
 data/03_gold/*.parquet
 data/03_gold/*.csv
+
+.env
