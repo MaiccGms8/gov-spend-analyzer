@@ -1,2 +1,10 @@
 pandas
+numpy
 pyarrow
+fastparquet
+scikit-learn
+matplotlib
+seaborn
+requests
+reportlab
+jupyter
